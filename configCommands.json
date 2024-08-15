@@ -29,6 +29,9 @@
     },
     "dhbc": {
       "reward": 1000
+    },
+    "gay": {
+      "deltaNext": 5
     }
   },
   "envEvents": {
